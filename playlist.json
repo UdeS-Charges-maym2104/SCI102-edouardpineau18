@@ -5,14 +5,20 @@
 			"titre": "Citizen Erased",
 			"artiste": "Muse",
 			"album": "Origin of Symetry",
-			"année": 2001,
+			"année": 20001,
 			"url": "https://www.youtube.com/watch?v=KScEW5a_KGY"
 		},
 		{ 
-			"titre": "Milord",
-			"artiste": "Edith Piaf",
-			"année": 1959,
+			"titre": "Miord",
+			"artiste": "Eth iaf",
+			"année": 19509,
 			"url": "https://www.youtube.com/watch?v=GZR8QCmWmwM"
+		},
+		{ 
+			"titre": "Never Gonna Give You Up",
+			"artiste": "Ma man",
+			"année": 190,
+			"url": "https://www.youtube.com8QCmWmwM"
 		},
 	]
 }
